@@ -1,0 +1,103 @@
+{
+"cities" : [
+    {
+        "id": 1,
+        "title": "Bangalore"
+    },
+    {
+        "id": 2,
+        "title": "Bhopal"
+    },
+    {
+        "id": 3,
+        "title": "Ranchi"
+    },
+    {
+        "id": 4,
+        "title": "Patna"
+    },
+    {
+        "id": 5,
+        "title": "Kolkata"
+    },
+    {
+        "id": 6,
+        "title": "Jaipur"
+    },
+    {
+        "id": 7,
+        "title": "Kanpur"
+    },
+    {
+        "id": 8,
+        "title": "Delhi"
+    },
+    {
+        "id": 9,
+        "title": "Indore"
+    },
+    {
+        "id": 10,
+        "title": "Gwalior"
+    },
+    {
+        "id": 11,
+        "title": "Mumbai"
+    },
+    {
+        "id": 12,
+        "title": "Chennai"
+    }
+],
+"months":[
+    {
+        "id": 1,
+        "title": "January"
+    },
+    {
+        "id": 2,
+        "title": "February"
+    },
+    {
+        "id": 3,
+        "title": "March"
+    },
+    {
+        "id": 4,
+        "title": "April"
+    },
+    {
+        "id": 5,
+        "title": "May"
+    },
+    {
+        "id": 6,
+        "title": "June"
+    },
+    {
+        "id": 7,
+        "title": "July"
+    },
+    {
+        "id": 8,
+        "title": "August"
+    },
+    {
+        "id": 9,
+        "title": "September"
+    },
+    {
+        "id": 10,
+        "title": "October"
+    },
+    {
+        "id": 11,
+        "title": "November"
+    },
+    {
+        "id": 12,
+        "title": "December"
+    }
+
+]
+}

@@ -1,0 +1,120 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+    color: #ffffff;
+}
+.navbar{
+    background-color: #35477d;
+    max-width: 100%;
+    height: 12vh;
+}
+.show-date{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.date-heading{
+    text-align: center;
+    padding: 8px 0;
+}
+.date{
+    padding: 0 7px;
+} */
+/* .content-container{
+    display: flex;
+}
+.city-container{
+    background-color: #c06c84;
+    width: 15%;
+    height: 80vh;
+}
+.city-title{
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.display-container{
+    text-align: center;
+    padding-top: 16%;
+    background-color: #f67280;
+    width: 70%;
+    height: 80vh;   
+} */
+/* .display-city{
+    font-weight: bold;
+    font-size: 35px;
+    letter-spacing: 5px;
+}
+.display-month{
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+.display-date{
+    font-weight: bold;
+    font-size: 55px;
+}
+.date{
+    cursor: pointer;
+}
+
+.month-container{
+    background-color: #c06c84;
+    width: 15%;
+    height: 80vh;
+}
+.month-title{
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+} */
+/* .footer{
+    background-color: #6c5b7b;
+    width: 100%;
+    height: 8vh;
+}
+.footer-text{
+    text-align: center;
+    padding-top: 12px;
+
+} */
+@media(max-width: 425px){
+    .content-container{
+        flex-direction: column;
+    }
+    .navbar{
+        height: 20vh;
+    }
+    .city-container{
+        width: 100%;
+        height: 65vh;
+    }
+    .city-title{
+        padding: 5px 0;
+        font-size: 18px;
+    }
+    .month-title{
+        padding: 5px 0;
+        font-size: 18px;
+        cursor: pointer;
+    }
+    .display-container{
+        width: 100%;
+        height: 25vh;   
+        padding-top: 8%;
+    }
+    .month-container{
+        width: 100%;
+        height: 65vh;
+    }
+}

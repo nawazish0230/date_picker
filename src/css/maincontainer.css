@@ -1,0 +1,52 @@
+.content-container{
+    display: flex;
+}
+.city-container{
+    background-color: #c06c84;
+    width: 15%;
+    height: 80vh;
+}
+.city-title{
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.display-container{
+    text-align: center;
+    padding-top: 16%;
+    background-color: #f67280;
+    width: 70%;
+    height: 80vh;   
+}
+.display-city{
+    font-weight: bold;
+    font-size: 35px;
+    letter-spacing: 5px;
+}
+.display-month{
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+.display-date{
+    font-weight: bold;
+    font-size: 55px;
+}
+.date{
+    cursor: pointer;
+}
+
+.month-container{
+    background-color: #c06c84;
+    width: 15%;
+    height: 80vh;
+}
+.month-title{
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}

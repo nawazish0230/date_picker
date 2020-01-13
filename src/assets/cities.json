@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Bangalore"
+    },
+    {
+        "id": 2,
+        "title": "Bhopal"
+    },
+    {
+        "id": 3,
+        "title": "Ranchi"
+    },
+    {
+        "id": 4,
+        "title": "Patna"
+    },
+    {
+        "id": 5,
+        "title": "Kolkata"
+    },
+    {
+        "id": 6,
+        "title": "Jaipur"
+    },
+    {
+        "id": 7,
+        "title": "Kanpur"
+    },
+    {
+        "id": 8,
+        "title": "Delhi"
+    },
+    {
+        "id": 9,
+        "title": "Indore"
+    },
+    {
+        "id": 10,
+        "title": "Gwalior"
+    },
+    {
+        "id": 11,
+        "title": "Mumbai"
+    },
+    {
+        "id": 12,
+        "title": "Chennai"
+    }
+
+]
